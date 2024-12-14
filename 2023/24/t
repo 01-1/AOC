@@ -1,0 +1,20 @@
+a + t1*b = p1 + t1*v1
+a + t2*b = ...
+
+
+p1 - a = t1(b - v1)
+p2 - a = t2(b - v2)
+
+sub a from all p and b from all v
+you want p,v collinear
+
+
+ok with fixed b
+
+you want p, v collinear so 
+
+you have 
+a = t1(b-v1) + p1
+
+so you calculate some line intesrections
+
